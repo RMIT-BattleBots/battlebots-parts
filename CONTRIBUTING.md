@@ -6,10 +6,10 @@
 2. Create a branch
 3. Add code/files
 4. Commit your changes
-5. Create a PR
+5. Create a pull request (PR)
 6. Add reviewers to review changes
 7. Squash and merge the PR
-8. Profit
+8. Profit !!!
 
 ## How to contribute!
 
