@@ -11,8 +11,8 @@ The motor brackets are located inside the robot housing adjacent to the wheels t
 (?)
 
 ## Images
-![3D model of wheel design](./WheelDesign.png "wheelImg")
+![3D model of wheel design](./wheel//WheelDesign.png "wheelImg")
 
-![3D model of upper bracket design](./upperBracket.png "upperBracketImg")
+![3D model of upper bracket design](./drive_motor_brackets/upperBracket.png "upperBracketImg")
 
-![3D model of lower bracket design](./lowerBracket.png "lowerBracketImg")
+![3D model of lower bracket design](./drive_motor_brackets/lowerBracket.png "lowerBracketImg")
