@@ -17,7 +17,7 @@ The motor brackets are located inside the robot housing adjacent to the wheels t
 
 Current components:
 
-<img src="./wheel/wheelDesign.png" height="400" alt="3D model of wheel design">
+<img src="./wheel/v1/wheelDesign.png" height="400" alt="3D model of wheel design">
 
 <img src="./drive_motor_brackets/v2/upperBracketv2.png" height="400" alt="3D model of upper bracket design">
 

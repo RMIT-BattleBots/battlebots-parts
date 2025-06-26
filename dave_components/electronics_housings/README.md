@@ -12,4 +12,4 @@ Infill negligible as the part is small enough to be mostly wall layers
 
 ## Images
 
-<img src="./switchHousing.png" height="400" alt="3D model of switch housing design">
+<img src="./v1/switchHousing.png" height="400" alt="3D model of switch housing design">
