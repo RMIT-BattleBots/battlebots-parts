@@ -2,10 +2,16 @@
 
 ## Steps
 
-1. Fork the repository
+1. Clone the repository
+   - `git clone https://github.com/RMIT-BattleBots/battlebots-parts.git`
 2. Create a branch
+   - `git branch {BRANCH NAME}`
+   - `git checkout {BRANCH NAME}`
 3. Add code/files
+   - `git add {FILES TO ADD}`
 4. Commit your changes
+   - `git commit -m "{COMMIT MESSAGE}"`
+   - `git push origin HEAD`
 5. Create a pull request (PR)
 6. Add reviewers to review changes
 7. Squash and merge the PR
