@@ -21,7 +21,7 @@
 
 Before you start to code you will need to create branch, the naming convention is shown below:
 
-`{TYPE_OF_PULLREQUEST}/_{DESCRIPTION}`
+`{TYPE_OF_PULLREQUEST}/{DESCRIPTION}`
 
 e.g.
 
